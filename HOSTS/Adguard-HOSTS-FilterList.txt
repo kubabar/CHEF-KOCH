@@ -1,0 +1,20 @@
+# Title: CHEF-KOCH's AdGuard HOSTS Filter List
+# Description: Filters AdGuard traffic only.
+# Checksum (SHA3-256): A003F9D9C11674FD5F6E0BCDE602F8ED175C8757B6044182FE424DA18AAB3635
+# License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+# By downloading or viewing, or using this list, you are accepting these terms and the license.
+# Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+# Expires: 14d
+# TimeUpdated: 2018-05-16	06:24:54+01:00
+# Version: 0.0.0.2
+# Please report any unblocked content or problems by email or via GitHub issue ticket.
+# Email: CHEF-KOCH@protonmail.com
+# Copyright (C) 2018 by CHEF-KOCH
+#
+# ---------- AdGuard License Check, ensure AdguardSvc.exe is blocked via Firewall ----------
+#
+0.0.0.0  194.177.22.245
+0.0.0.0  api.adguard.com
+#
+# ---------- AdGuard ----------
+#
